@@ -112,12 +112,46 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16597225916cc62891": {
+      "type": "collage",
+      "blocks": {
+        "8680c668-691f-4f2c-a010-472893ae37db": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/go_pro_2.png",
+            "image_padding": false
+          }
+        },
+        "c54e5319-cf1c-4ca6-adf0-74de757430dd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/go_pro.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "8680c668-691f-4f2c-a010-472893ae37db",
+        "c54e5319-cf1c-4ca6-adf0-74de757430dd"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
     "16597222804e66c232",
     "featured_collection",
-    "16597224259cd3b985"
+    "16597224259cd3b985",
+    "16597225916cc62891"
   ]
 }
