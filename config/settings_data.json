@@ -179,12 +179,20 @@
               "heading": "QUICK LINKS",
               "menu": "main-menu"
             }
+          },
+          "241ba810-a123-4109-aacb-289f0abc49c7": {
+            "type": "link_list",
+            "settings": {
+              "heading": "PRIVACY POLICY",
+              "menu": "menu-2"
+            }
           }
         },
         "block_order": [
           "6bc8ecf2-5064-4494-a370-ac222463f8c3",
           "footer-1",
-          "fff014e5-553d-4b1d-8789-1c1376324831"
+          "fff014e5-553d-4b1d-8789-1c1376324831",
+          "241ba810-a123-4109-aacb-289f0abc49c7"
         ],
         "settings": {
           "color_scheme": "accent-2",
